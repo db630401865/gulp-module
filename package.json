@@ -1,14 +1,14 @@
 {
-  "name": "zce-pages",
+  "name": "db-pages",
   "version": "0.2.0",
   "description": "static web app workflow",
   "keywords": [
-    "zce-pages",
+    "db-pages",
     "zce"
   ],
-  "homepage": "https://github.com/zce/zce-pages#readme",
+  "homepage": "https://github.com/zce/db-pages#readme",
   "bugs": {
-    "url": "https://github.com/zce/zce-pages/issues"
+    "url": "https://github.com/zce/db-pages/issues"
   },
   "license": "MIT",
   "author": "zce <w@zce.me> (https://zce.me)",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zce/zce-pages.git"
+    "url": "git+https://github.com/zce/db-pages.git"
   },
   "scripts": {
     "lint": "standard --fix"

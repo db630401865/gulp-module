@@ -1,4 +1,4 @@
-# zce-pages
+# db-pages
 
 [![NPM Downloads][downloads-image]][downloads-url]
 [![NPM Version][version-image]][version-url]
@@ -12,10 +12,10 @@
 ## Installation
 
 ```shell
-$ yarn add zce-pages
+$ yarn add db-pages
 
 # or npm
-$ npm install zce-pages
+$ npm install db-pages
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ $ npm install zce-pages
 <!-- TODO: Introduction of API use -->
 
 ```javascript
-const zcePages = require('zce-pages')
+const zcePages = require('db-pages')
 const result = zcePages('zce')
 // result => 'zce@zce.me'
 ```
@@ -64,15 +64,15 @@ const result = zcePages('zce')
 
 
 
-[downloads-image]: https://img.shields.io/npm/dm/zce-pages.svg
-[downloads-url]: https://npmjs.org/package/zce-pages
-[version-image]: https://img.shields.io/npm/v/zce-pages.svg
-[version-url]: https://npmjs.org/package/zce-pages
-[license-image]: https://img.shields.io/github/license/zce/zce-pages.svg
-[license-url]: https://github.com/zce/zce-pages/blob/master/LICENSE
-[dependency-image]: https://img.shields.io/david/zce/zce-pages.svg
-[dependency-url]: https://david-dm.org/zce/zce-pages
-[devdependency-image]: https://img.shields.io/david/dev/zce/zce-pages.svg
-[devdependency-url]: https://david-dm.org/zce/zce-pages?type=dev
+[downloads-image]: https://img.shields.io/npm/dm/db-pages.svg
+[downloads-url]: https://npmjs.org/package/db-pages
+[version-image]: https://img.shields.io/npm/v/db-pages.svg
+[version-url]: https://npmjs.org/package/db-pages
+[license-image]: https://img.shields.io/github/license/zce/db-pages.svg
+[license-url]: https://github.com/zce/db-pages/blob/master/LICENSE
+[dependency-image]: https://img.shields.io/david/zce/db-pages.svg
+[dependency-url]: https://david-dm.org/zce/db-pages
+[devdependency-image]: https://img.shields.io/david/dev/zce/db-pages.svg
+[devdependency-url]: https://david-dm.org/zce/db-pages?type=dev
 [style-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-url]: https://standardjs.com
